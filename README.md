@@ -39,5 +39,5 @@ Este repositório contém templates de Infraestrutura como Código (IaC) utiliza
 - `main.tf`: Arquivo principal de configuração do Terraform
 - `playbook.yml`: Playbook do Ansible para gerenciamento de configuração
 - `hosts.yml`: Configuração de hosts do Ansible
-- `iac-ubuntu.pem`: Chave privada para as instâncias AWS
+
 
